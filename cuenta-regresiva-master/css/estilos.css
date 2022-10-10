@@ -36,13 +36,13 @@ body {
 }
 
 .portada .header .logotipo {
-	font-size: 50px;
+	font-size: 46px;
 	font-size: 900;
 	margin-bottom: 20px;
 }
 
 .portada .header .mensaje {
-	font-size: 30px;
+	font-size: 22px;
 	font-weight: 600;
 }
 
@@ -64,10 +64,7 @@ main {
 /* ? ----- Cuenta Regresiva ----- */
 #cuenta {
 	display: flex;
-    margin-bottom: 100px;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    
 }
 	 
 
