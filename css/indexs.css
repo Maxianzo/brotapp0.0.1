@@ -49,10 +49,18 @@ text-decoration: none;
   box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
   /* Lowering the shadow */
 }
+.strem{
+      width: 100%;
+}
 .imag {
   display: inline-block;
-  width:250px;
+  width:307px;
 height: 270px;
+    margin: auto;}
+.imag2 {
+  display: inline-block;
+  width:307px;
+height: 69px;
     margin: auto;}
 
 footer{
